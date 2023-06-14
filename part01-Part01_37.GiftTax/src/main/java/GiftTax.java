@@ -22,6 +22,6 @@ public class GiftTax {
         } else {
             System.out.println("Tax: " + (1.0 * 142100 + (givenGift - 1000000) * 0.17));
         }
-
+//Tax paid
     }
 }

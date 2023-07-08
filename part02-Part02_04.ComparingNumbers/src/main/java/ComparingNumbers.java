@@ -15,7 +15,6 @@ public class ComparingNumbers {
             System.out.println(first + " is smaller than " + second +".");
         }  else {
             System.out.println(first + " is equal to " + second +".");
-
         }
     }
 }

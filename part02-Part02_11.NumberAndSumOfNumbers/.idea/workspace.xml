@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cec57d5-0005-4541-97af-cf0aff7984ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_09.NumberOfNegativeNumbers/src/main/java/NumberOfNegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_09.NumberOfNegativeNumbers/src/main/java/NumberOfNegativeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/src/main/java/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/src/main/java/SumOfNumbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2U7xoj8etgtCtwjExaekuWPImYj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cec57d5-0005-4541-97af-cf0aff7984ee" name="Changes" comment="" />
+      <created>1692304596735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692304596735</updated>
+    </task>
+    <servers />
+  </component>
+</project>
